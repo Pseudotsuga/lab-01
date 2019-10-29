@@ -1,23 +1,26 @@
+header, aside, article, section, footer{
+  background-color: #d8d8d8;
+}
 header {
-  min-width: 480px;
+  width: 480px;
   min-height: 75px;
 }
 
 aside {
-  min-width: 480px;
+  width: 480px;
   min-height: 150px;
 }
 article {
-  min-width: 480px;
+  width: 480px;
   min-height: 125px;
 }
 section {
   float: left;
-  min-width: 240px;
+  width: 240px;
   min-height: 250px;
 }
 footer {
   clear: left;
-  min-width: 480px;
-  min-height: 80px;
+  width: 480px;
+  max-height: 80px;
 }
