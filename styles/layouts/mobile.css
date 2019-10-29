@@ -1,0 +1,22 @@
+header {
+  min-width: 480px;
+  min-height: 75px;
+}
+
+aside {
+  min-width: 480px;
+  min-height: 150px;
+}
+article {
+  min-width: 480px;
+  min-height: 125px;
+}
+section {
+  float: left;
+  min-width: 240px;
+  min-height: 250px;
+}
+footer {
+  min-width: 480px;
+  min-height: 80px;
+}

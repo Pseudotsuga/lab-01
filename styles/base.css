@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+  outline: grey solid 1px;
+}
+body {
+  background-color: white;
+}
