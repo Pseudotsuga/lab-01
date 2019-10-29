@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+  outline: #ededed solid 1px;
+  text-align: center;
+}
+body {
+  background-color: white;
+}
