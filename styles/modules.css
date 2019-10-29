@@ -1,3 +1,11 @@
-header, aside, article, section, footer{
-  padding: 50% 0px;
+header, aside, article, section, footer {
+  position: relative;
+}
+.mod-center{
+  position: absolute;
+  top: 50%;
+}
+
+.mod-container {
+  outline: #ededed solid 1px;
 }
