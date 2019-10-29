@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   outline: grey solid 1px;
+  text-align: center;
 }
 body {
   background-color: white;

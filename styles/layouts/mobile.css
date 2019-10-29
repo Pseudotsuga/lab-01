@@ -17,6 +17,7 @@ section {
   min-height: 250px;
 }
 footer {
+  clear: left;
   min-width: 480px;
   min-height: 80px;
 }
