@@ -1,6 +1,7 @@
 header, aside, article, section, footer {
   position: relative;
 }
+
 .mod-center{
   position: absolute;
   top: 50%;
