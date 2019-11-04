@@ -1,26 +1,40 @@
+/* OnePlus 6 */
 .mod-container{
   background-color: #d8d8d8;
 }
+
+body {
+  max-width: 412px;
+  margin: auto;
+  display: flex;
+  flex-flow: column wrap;
+}
+
 header {
-  width: 480px;
   min-height: 75px;
+  min-width: 100%;
 }
 
 aside {
-  width: 480px;
   min-height: 150px;
+  min-width: 100%;
+}
+
+main {
+  display: flex;
+  flex-flow: row wrap;
+  min-width: 100%;
+  min-height: 750px;
 }
 article {
-  width: 480px;
+  min-width: 100%;
   min-height: 125px;
 }
 section {
-  float: left;
-  width: 240px;
+  min-width: 50%;
   min-height: 250px;
 }
 footer {
-  clear: left;
-  width: 480px;
-  height: 80px;
+  min-height: 80px;
+  min-width: 100%;
 }
